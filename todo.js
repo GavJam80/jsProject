@@ -1,5 +1,7 @@
 // Heading: Todo
 
+// title: today (date)
+
 // input field to add new todo
 
 // button to add/submit new todo
